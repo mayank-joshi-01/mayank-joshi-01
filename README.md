@@ -1,4 +1,4 @@
-![](https://github.com/git-SwitchBlade/git-SwitchBlade/blob/main/Black%20And%20White%20Digital%20Banner(1).jpg)
+![](https://github.com/git-SwitchBlade/git-SwitchBlade/blob/main/Black%20And%20White%20Digital%20Banner(2).jpg)
  
 - 👋 Hi, I’m @git-SwitchBlade
 - 👀 I’m interested in Cyber Security
