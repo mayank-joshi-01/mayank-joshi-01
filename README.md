@@ -69,4 +69,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username= git-SwitchBlade">
 </a>
-<a href="https://github.com/ git-SwitchBlade?tab=followers"><img src="https://img.shields.io/github/followers/ git-SwitchBlade?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ git-SwitchBlade?tab=followers"><img src="https://img.shields.io/github/followers/git-SwitchBlade?label=Followers&style=social" alt="GitHub Badge"></a>
