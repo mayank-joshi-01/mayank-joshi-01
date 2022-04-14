@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Work](3hoodies.000webhostapp.com)**
 
-- 📫 How to reach me **dranzer662@gmail.com**
+- 📫 How to reach me **itsmayank227@gmail.com**
 
 - ⚡ Fun fact **I play games and do tryhackme very often.**
 
